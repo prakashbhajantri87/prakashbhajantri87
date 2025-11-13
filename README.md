@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Prakasha Bhajantri**
-### 🚀 Senior Data Scientist | Generative AI | Machine Learning | Deep Learning
+### 🚀 Senior Data Scientist | Generative AI Developer | Machine Learning | Deep Learning
 
 🌍 Bengaluru, India (Open to relocation: UAE / Singapore)  
 📧 [prakash.bhajantri87@gmail.com](mailto:prakash.bhajantri87@gmail.com)  
