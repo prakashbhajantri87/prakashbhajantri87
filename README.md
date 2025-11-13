@@ -59,7 +59,7 @@ I help organizations turn **data into intelligence** and **intelligence into mea
 ### 🎓 Education & Certifications  
 
 🎓 **B.E. in Computer Science** – BMS Institute of Technology, Bengaluru  
-📘 **Data Science with Python & R** – edWisor
+📘 **Data Science with Python & R** – edWisor <br>
 📜 **Advanced Data Science & Tableau** – NIIT StackRoute  
   
 
