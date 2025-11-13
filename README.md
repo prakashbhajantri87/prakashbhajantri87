@@ -72,7 +72,7 @@ I help organizations turn **data into intelligence** and **intelligence into mea
 
 ### 📫 Connect With Me  
 
-📧 [prakash.bhajantri87@gmail.com](mailto:prakash.bhajantri87@gmail.com)  Or Send request in below
+📧 Send mail to : [prakash.bhajantri87@gmail.com](mailto:prakash.bhajantri87@gmail.com)  Or Send request to
 💼 [LinkedIn](https://linkedin.com/in/prakash-pb)  
 
 ---
